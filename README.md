@@ -38,6 +38,7 @@ https://node-rest-mongo.herokuapp.com/perfil/59cbe4f40f81e712000b20fa
 
 #### Para o `DELETE` e `UPDATE` usar a mesma URL do `GET ONE`, para a URL do `GET ONE` é necessário o ID do registro único, ex: para usuario o id 59cbe76f0f81e712000b2100
 
+#
 
 # Veja também em Spring (Java)
 
