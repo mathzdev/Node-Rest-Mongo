@@ -18,7 +18,7 @@ Para o MongoDB, preferi não hospedar um servidor local, acabei usando da mLab m
 
 https://node-rest-mongo.herokuapp.com
 
-### Endpoints
+### Endpoints REST
 
 `GET All`
 
@@ -44,4 +44,4 @@ https://node-rest-mongo.herokuapp.com/perfil/59cbe4f40f81e712000b20fa
 
 https://github.com/ma-theus/Spring-Rest-Mongo
 
-# ~ by matheusluciox@gmail.com# New Document
+# ~ by matheusluciox@gmail.com
